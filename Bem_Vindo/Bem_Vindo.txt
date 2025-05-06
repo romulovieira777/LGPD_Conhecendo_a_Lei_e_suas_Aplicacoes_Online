@@ -1,0 +1,23 @@
+Apresentação
+
+Bem-vindo!
+
+É um prazer tê-lo como aluno do nosso curso online Fundamentos de Machine Learning na Prática. Este curso é ideal para você que deseja aprender como aplicar
+machine learning para inferir padrões em bases de dados. No decorrer das aulas, o aluno conhecerá o processo de investigação dos dados por meio da perspectiva do
+aprendizado de máquina e a aplicação do aprendizado em um conjunto de dados do mundo real.
+
+Bom aprendizado!
+
+
+Como estudar?
+
+Assista! -> Pratique! -> Material de Apoio
+
+
+Este curso conta com:
+
+Videoaulas sobre os assuntos que você precisa saber neste curso de Machine Learning.
+
+Exercícios para você pôr à prova o que aprendeu.
+
+Material de apoio para você testar os exemplos das videoaulas.
