@@ -7,5 +7,6 @@
 - [Aula 02 - Princípios](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_02_Principios)
 - [Aula 03 - Tratamento de Dados Pessoais e Dados Sensíveis](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_03_Tratamento_de_Dados_Pessoais_e_Dados_Sensiveis)
 - [Aula 04 - Formalidades do Consetimento](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_04_Formalidades_do_Consetimento)
+- [Aula 05 - Interesse Legítimo]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/lgpd-conhecendo-a-lei-e-suas-aplicacoes-online)
