@@ -13,6 +13,6 @@
 - [Aula 08 - Transferência Internacional de Dados](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_08_Transferencia_Internacional_de_Dados)
 - [Aula 09 - Agentes de Tratamento](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_09_Agentes_de_Tratamento)
 - [Aula 10 - A Importância da Cibersegurança](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_10_A_Importancia_da_Ciberseguranca)
-- [Aula 11 - Informações Pessoais e Identificáveis]()
+- [Aula 11 - Informações Pessoais e Identificáveis](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_11_Informacoes_Pessoais_e_Identificaveis)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/lgpd-conhecendo-a-lei-e-suas-aplicacoes-online)
