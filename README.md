@@ -11,6 +11,6 @@
 - [Aula 06 - Tratamento de Dados Sensíveis](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_06_Tratamento_de_Dados_Sensiveis)
 - [Aula 07 - Direito dos Titulares](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_07_Direito_dos_Titulares)
 - [Aula 08 - Transferência Internacional de Dados](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_08_Transferencia_Internacional_de_Dados)
-- [Aula 09 - Agentes de Tratamento]()
+- [Aula 09 - Agentes de Tratamento](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_09_Agentes_de_Tratamento)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/lgpd-conhecendo-a-lei-e-suas-aplicacoes-online)
