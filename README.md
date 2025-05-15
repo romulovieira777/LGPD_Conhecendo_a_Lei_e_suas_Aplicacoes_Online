@@ -14,6 +14,6 @@
 - [Aula 09 - Agentes de Tratamento](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_09_Agentes_de_Tratamento)
 - [Aula 10 - A Importância da Cibersegurança](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_10_A_Importancia_da_Ciberseguranca)
 - [Aula 11 - Informações Pessoais e Identificáveis](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_11_Informacoes_Pessoais_e_Identificaveis)
-- [Aula 12 - Riscos, Vulnerabilidades e Ameaças]()
+- [Aula 12 - Riscos, Vulnerabilidades e Ameaças](https://github.com/romulovieira777/LGPD_Conhecendo_a_Lei_e_suas_Aplicacoes_Online/tree/main/Aula_12_Riscos_Vulnerabilidades_e_Ameacas)
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/lgpd-conhecendo-a-lei-e-suas-aplicacoes-online)
